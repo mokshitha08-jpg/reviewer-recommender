@@ -1,3 +1,8 @@
+APP LINK:
+https://reviewer-recommender-mokshi.streamlit.app/
+
+
+
 📄 REVIEWER RECOMMENDER:
 This repository contains the code for a Research Paper Reviewer Recommender application. This system recommends the top expert reviewers for an uploaded research paper (PDF) based on the semantic similarity between the paper's content and the reviewers' past publications (expertise corpus).
 
