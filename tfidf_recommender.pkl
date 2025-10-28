@@ -1,0 +1,7 @@
+import joblib
+
+# 1. 'your_tfidf_model_object' is the actual trained model variable
+#    (e.g., TfidfVectorizer object fitted on your reviewer data).
+# 2. 'tfidf_recommender.pkl' is the filename.
+
+joblib.dump(your_tfidf_model_object, 'tfidf_recommender.pkl')
